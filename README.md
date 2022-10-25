@@ -6,3 +6,7 @@ This bot is used to remind you 3m ahead and the exact time of bump periods for t
 ### How to setup:
 Its simple! Just run the bot then config the "bot" section of the config. (token, etc)
 After that, you can just run /setup in your server to set the channel and optional role to ping.
+
+### Images:
+![img 01](https://cdn.upload.systems/uploads/s56iGGaq.png)
+
